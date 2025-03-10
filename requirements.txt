@@ -1,5 +1,6 @@
 streamlit
-opencv-python
-opencv-contrib-python
+streamlit-webrtc
 ultralytics
 cvzone
+opencv-python
+numpy
